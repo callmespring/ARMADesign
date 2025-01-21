@@ -49,7 +49,7 @@ Please contact ksun6@ualberta.ca if you have any questions.
 Please cite our paper if you use our implementation in your research:
 ```
 @article{sun2024optimal,
-  title={Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments},
+  title={ARMA-Design: Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Time Series Experiments},
   author={Sun, Ke and Kong, Linglong and Zhu, Hongtu and Shi, Chengchun},
   journal={arXiv preprint arXiv:2408.05342},
   year={2024}
